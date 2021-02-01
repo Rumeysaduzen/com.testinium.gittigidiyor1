@@ -1,0 +1,252 @@
+[main] INFO  base.BaseTest  - Test Started
+[main] INFO  base.BaseTest  - Test Started
+[main] INFO  base.BaseTest  - Test Started
+[main] INFO  base.BaseTest  - Test Started
+[main] INFO  base.BaseTest  - Test Started
+[main] INFO  base.BaseTest  - Test Started
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] DEBUG base.BaseTest  - Web page could not open.... :null
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] DEBUG base.BaseTest  - Web page could not open.... :null
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] DEBUG base.BaseTest  - Web page could not open.... :null
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] DEBUG base.BaseTest  - Web page could not open.... :null
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] DEBUG base.BaseTest  - Web page could not open.... :null
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] DEBUG base.BaseTest  - Web page could not open.... :null
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] DEBUG base.BaseTest  - Web page could not open.... :null
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] DEBUG base.BaseTest  - Web page could not open.... :null
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] DEBUG base.BaseTest  - Web page could not open.... :null
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] DEBUG base.BaseTest  - Web page could not open.... :null
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page could not open.
+[main] DEBUG base.BaseTest  - Web page could not open.... :null
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] DEBUG base.BaseTest  - Web page could not open.... :null
+[main] INFO  base.BaseTest  - Test Started
+[main] INFO  base.BaseTest  - Test Started
+[main] INFO  base.BaseTest  - Test Started
+[main] INFO  base.BaseTest  - Test Started
+[main] INFO  base.BaseTest  - Test Started
+[main] INFO  base.BaseTest  - Test Started
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page could not open.... :no such element: Unable to locate element: {"method":"css selector","selector":"header[id='main-header'] a[class='sc-84am1q-0 sc-1r48nyr-0 gpYIaK']"}
+  (Session info: chrome=88.0.4324.104)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0JPG4VA', ip: '192.168.1.41', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.104, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\Users\rumeysa\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:59900}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3273951013c022199711d08d8bc567c2
+*** Element info: {Using=css selector, value=header[id='main-header'] a[class='sc-84am1q-0 sc-1r48nyr-0 gpYIaK']}
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page could not open.... :no such element: Unable to locate element: {"method":"css selector","selector":"header[id='main-header'] a[class='sc-84am1q-0 sc-1r48nyr-0 gpYIaK']"}
+  (Session info: chrome=88.0.4324.104)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0JPG4VA', ip: '192.168.1.41', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.104, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\Users\rumeysa\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:60065}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6eea5816bd8293f17e1966d4e2c519e7
+*** Element info: {Using=css selector, value=header[id='main-header'] a[class='sc-84am1q-0 sc-1r48nyr-0 gpYIaK']}
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page could not open.... :no such element: Unable to locate element: {"method":"css selector","selector":"header[id='main-header'] a[class='sc-84am1q-0 sc-1r48nyr-0 gpYIaK']"}
+  (Session info: chrome=88.0.4324.104)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0JPG4VA', ip: '192.168.1.41', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.104, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\Users\rumeysa\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:60221}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6fb083debf5dd1b0c39945399c405466
+*** Element info: {Using=css selector, value=header[id='main-header'] a[class='sc-84am1q-0 sc-1r48nyr-0 gpYIaK']}
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page could not open.... :no such element: Unable to locate element: {"method":"css selector","selector":"header[id='main-header'] a[class='sc-84am1q-0 sc-1r48nyr-0 gpYIaK']"}
+  (Session info: chrome=88.0.4324.104)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0JPG4VA', ip: '192.168.1.41', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.104, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\Users\rumeysa\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:60693}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d6816d2a1b1bb8f93c1128979e86283b
+*** Element info: {Using=css selector, value=header[id='main-header'] a[class='sc-84am1q-0 sc-1r48nyr-0 gpYIaK']}
+[main] INFO  base.BaseTest  - Test Started
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page could not open.... :no such element: Unable to locate element: {"method":"css selector","selector":"header[id='main-header'] a[class='sc-84am1q-0 sc-1r48nyr-0 gpYIaK']"}
+  (Session info: chrome=88.0.4324.104)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0JPG4VA', ip: '192.168.1.41', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.104, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\Users\rumeysa\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:60866}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e41c2478cd943d432e62b133dbba37dd
+*** Element info: {Using=css selector, value=header[id='main-header'] a[class='sc-84am1q-0 sc-1r48nyr-0 gpYIaK']}
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page could not open.... :no such element: Unable to locate element: {"method":"css selector","selector":"header[id='main-header'] a[class='sc-84am1q-0 sc-1r48nyr-0 gpYIaK']"}
+  (Session info: chrome=88.0.4324.104)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0JPG4VA', ip: '192.168.1.41', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.104, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\Users\rumeysa\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:61027}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4e3627ff956f53011384af546230bc64
+*** Element info: {Using=css selector, value=header[id='main-header'] a[class='sc-84am1q-0 sc-1r48nyr-0 gpYIaK']}
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page could not open.... :no such element: Unable to locate element: {"method":"css selector","selector":"header[id='main-header'] a[class='sc-84am1q-0 sc-1r48nyr-0 gpYIaK']"}
+  (Session info: chrome=88.0.4324.104)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0JPG4VA', ip: '192.168.1.41', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.104, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\Users\rumeysa\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:61265}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 56fb268bf29609beb7d5f08e9e128b0d
+*** Element info: {Using=css selector, value=header[id='main-header'] a[class='sc-84am1q-0 sc-1r48nyr-0 gpYIaK']}
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page could not open.... :chrome not reachable
+  (Session info: chrome=88.0.4324.104)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0JPG4VA', ip: '192.168.1.41', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.104, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\Users\rumeysa\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:61556}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f1982ce4b60ce8d4f696c614f62b0b9b
+*** Element info: {Using=id, value=L-UserNameField}
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page could not open.... :no such element: Unable to locate element: {"method":"css selector","selector":"#L\-UserNameField"}
+  (Session info: chrome=88.0.4324.104)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0JPG4VA', ip: '192.168.1.41', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.104, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\Users\rumeysa\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:62216}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e311ab7a459dabf8e69a33e0e5e32771
+*** Element info: {Using=id, value=L-UserNameField}
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page could not open.... :no such element: Unable to locate element: {"method":"css selector","selector":"#L\-UserNameField"}
+  (Session info: chrome=88.0.4324.104)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0JPG4VA', ip: '192.168.1.41', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.104, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\Users\rumeysa\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:62343}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e32eb3c4949f8137aac8ac2433a8570f
+*** Element info: {Using=id, value=L-UserNameField}
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page could not open.... :chrome not reachable
+  (Session info: chrome=88.0.4324.104)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0JPG4VA', ip: '192.168.1.41', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.104, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\Users\rumeysa\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:62476}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9e0413502920e48e12d743f4b4612985
+*** Element info: {Using=id, value=L-UserNameField}
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] DEBUG base.BaseTest  - Web page could not open.... :no such element: Unable to locate element: {"method":"css selector","selector":"#L\-UserNameField"}
+  (Session info: chrome=88.0.4324.104)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0JPG4VA', ip: '192.168.1.41', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.104, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\Users\rumeysa\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:49246}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e54ac6096d21a2e3a6ab621ffe67d03b
+*** Element info: {Using=id, value=L-UserNameField}
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] INFO  base.BaseTest  - Test Started
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] INFO  base.BaseTest  - Test Started
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] INFO  base.BaseTest  - ürün siliniyor.....
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] INFO  base.BaseTest  - ürün siliniyor.....
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] INFO  base.BaseTest  - ürün siliniyor.....
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] INFO  base.BaseTest  - Ürünün sepetteki fiyatı: 159,80 TL
+[main] INFO  base.BaseTest  - Test Started
+[main] DEBUG base.BaseTest  - Web page is opened
+[main] INFO  base.BaseTest  - Ürünün sepetteki fiyatı: 239,70 TL
+[main] INFO  base.BaseTest  - ürün siliniyor.....
